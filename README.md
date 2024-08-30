@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @allenenosh
-- 👀 I specialize in computer security and programming. 
+- computer security and programming. 
   
 <!---
 allenenosh/allenenosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
